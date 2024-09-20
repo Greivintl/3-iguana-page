@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h1 {
+    width: 1280px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.empty {
+    width: 1280px;
+    height: 727px;
+    background-image: url("../imgs/header.jpg");
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    width: 1280px;
+    height: 348px;
+}
+
+.topP {
+    font-family: 'Raleway, Light', sans-serif;
+    font-size: 16px;    
+    color: #FFFFFF;
+    display: inline-block;
+    width: 475px;
+    height: 197px;
+    margin-left: 150px;
+    margin-top: 76px;
+    margin-bottom: 75px;
+
+}
+
+.topImg img {
+    display: inline-block;
+    width: 399px;
+    height: 237px;
+    margin-top: 45px;
+    margin-bottom: 66px;
+    margin-right: 150px;
+}
+
+.mid {
+    width: 1280px;
+    height: 348px;
+    background-color: #1E1A13;
+    opacity: 98%;
+}
+
+h2 {
+    display: inline-flex;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-left: 463.5px;
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+
+.icon {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.paragraphs {
+    padding-top: 20px;
+}
+
+.p1 {
+    color: #FFFFFF;
+    font-family: 'Raleway, Light', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 260px;
+}
+
+.p2 {
+    color: #FFFFFF;
+    font-family: 'Raleway, Light', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 250px;
+}
+
+.p3 {
+    color: #FFFFFF;
+    font-family: 'Raleway, Light', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.bot {
+    width: 1280px;
+    height: 348px;
+    background-color: #000000;
+    opacity: 96%;
+}
+
+.iguanaBot1 {
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-left: 150px;
+}
+
+.iguanaBot2 {
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.iguanaBot3 {
+    width: 316px;
+    height: 202px;
+    margin-right: 150px;
+}
+
+footer {
+    background-color: #1E1A13;
+    width: 1280px;
+    height: 102px;
+}
+
+footer p {
+    font-family: 'Raleway, Light', sans-serif;
+    text-align: center;
+    padding-top: 39px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
